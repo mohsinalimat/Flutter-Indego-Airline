@@ -1,0 +1,44 @@
+Report created: 
+	15-08-2018	18:47:17
+
+Project name: Indigo Airline challenge.aep
+
+Source files collected to: 
+	D:\Freelance\Airlines challenge\Indigo Airline challenge folder
+
+Source files collected: All
+
+Collected comps:  
+	Indigo airlines Splash screen
+	Button
+	Indigo Flight Search
+	Form
+	Menu
+	Siwtch teext
+	Switch
+	Tick
+	Button
+	Pre-comp 1
+	Final Comp
+	Final render Comp
+	
+Number of collected files:  2
+
+Size of collected files:  22.7 MB
+
+Collected source files: 
+	D:\Freelance\Airlines challenge\Indigo airlines Splash screen.psd
+	D:\Freelance\Airlines challenge\Indigo Flight Search.psd
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  1
+
+Effect:  Slider Control
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Poppins”, Font style: “Medium”
+
