@@ -1,4 +1,4 @@
-# ✈️ Flutter Food Delivery App "Order Tracking"
+# ✈️ Flutter flight booking app "Airline Ticket Booking App"
 
 A Flutter app based on the winning design 🙌 of the flight booking app "Airline Ticket Booking App" *by Pratik Karkera*, see more on: [Uplabs](https://www.uplabs.com/posts/airline-ticket-booking-app).
 
